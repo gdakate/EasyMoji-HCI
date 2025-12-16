@@ -15,6 +15,8 @@ EasyMoji is a semantic emoji search keyboard for Android that processes descript
 
 ## Code Structure
 
+code path : app/src/main/java/com/example/easymoji2
+
 ```
 easymoji2/
 ├── ContextualFilter.kt          # Intent detection & relevance filtering
